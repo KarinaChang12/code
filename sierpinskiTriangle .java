@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab06 {
+public class sierpinskiTriangle  {
 
 	public static void main(String[] args) {
 
