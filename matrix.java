@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Lab07 {
+public class matrix {
 
 	public static void main(String[] args) {
 		
