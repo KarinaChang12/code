@@ -2,7 +2,7 @@
 
 import java.util.Random;
 import java.util.Scanner;
-public class Homework03 {
+public class rockPaperScissors {
 	public static void main(String[] args) {
 
 		Scanner key = new Scanner(System.in);
